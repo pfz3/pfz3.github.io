@@ -1,0 +1,18 @@
+# This is the default format. 
+# For more see: http://jekyllrb.com/docs/permalinks/
+permalink: /:categories/:year/:month/:day/:title 
+
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+highlighter: pygments
+
+# Themes are encouraged to use these universal variables 
+# so be sure to set them if your theme uses them.
+#
+title : pfz3
+tagline: n/a
+author :
+  name : P F-Z
+  email : pfz3@gatech.edu
+  github : pfz3
+  twitter : n/a
+  feedburner : n/a
