@@ -7,7 +7,7 @@ title: Machining Background
 
 ## Background
 
-Video taken in an SEM of various steels being cut with various cutting inserts.
+Video taken in an SEM of various steels being cut with various cutting inserts. Click to be taken to the youtube video.
 
 <a href="https://www.youtube.com/watch?v=mRuSYQ5Npek&list=UUEEF2Y1AykbUkp0LEk7IV4A
 " target="_blank"><img src="https://i.ytimg.com/vi_webp/mRuSYQ5Npek/default.webp" 
