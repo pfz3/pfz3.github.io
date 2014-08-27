@@ -1,19 +1,19 @@
 ---
 layout: post
-title: first post
+title: TEST
 ---
 
 <img src="https://cloud.githubusercontent.com/assets/8506440/4046230/7f349848-2d30-11e4-9fc3-c93d24843015.jpg" width="600px" />
 
 
-* Something something
+* TEST
 
 -----
 
-This is the first try.
+TEST
 
-### What is on this page?
+### TEST?
 
-* 1 - This
-* 2 - That
-* 3 - Nothing
+* 1 - TEST
+* 2 - TEST
+* 3 - TEST
