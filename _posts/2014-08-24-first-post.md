@@ -23,7 +23,7 @@ The simplest physical model for the continuum problem is the orthogonal cutting 
 
 The degree of strain can be controlled through the geometric quantities shown in the below image. Strain rate can be controlled through the prescribed cutting velocity. The temperatures generated in this process are a function of both the imposed deformation and associated time scale.
 
-<img src="http://engineeronadisk.com/V2/notes_manufacturing/engineeronadisk-19.gif" width="600px" />
+[<img src="http://engineeronadisk.com/V2/notes_manufacturing/engineeronadisk-19.gif" width="600px" />](http://engineeronadisk.com/V2/notes_manufacturing/engineeronadisk-19.gif)
 
 
 
