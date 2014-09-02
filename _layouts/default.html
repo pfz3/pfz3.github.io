@@ -1,32 +1,54 @@
 <!DOCTYPE html>
-<html xmlns="http://www.pfz3.github.io" xml:lang="en" lang="en-us">
+<html class="no-js" lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>{{ page.title }}</title>
+    
+    <!-- syntax highlighting CSS -->
+    <link rel="stylesheet" href="{{site.baseurl}}css/syntax.css">
+    
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="{{site.baseurl}}css/main.css">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/foundation.css" />
+    <script src="js/vendor/modernizr.js"></script>
+    
+</head>
+<body >
+<div class="site" >
 
-  {% include head.html %}
 
-  <body>
+<div>
+    {{ content }}
+</div>
 
-    <div class="container content">
-      <div class="masthead">
-        <h3 class="masthead-title">
-          <a href="/" title="Home">{{ site.title }}</a>
-
-          {% for page in site.pages_list %}
-              &nbsp;&nbsp;&nbsp;<small><a href="{{ page[1]  }}">{{ page[0] }}</a></small>
-          {% endfor %}
-
-        </h3>
-      </div>
-
-      {{ content }}
-
-      {% include comments.html %}
-
-      <div class="footer">
+<br>
+<div class="row">
+<div class="button success small-5 columns">
+    
         <p>
-          &copy; {{ site.time | date: '%Y' }}. All rights reserved.
+            <b><big>Tony Fast</big></b><br />
+            Materials Data Scientist<br />
+            tony.fast@gmail.com
         </p>
-      </div>
-    </div>
+    
+</div>
 
-  </body>
+<div class="button alert small-5 columns">
+<p>
+    <a href="https://slideshare.net/pfz3">SlideShare</a></br>
+</p>
+</div>
+
+</div>
+
+    
+    
+
+{% endif %}
+    </div>
+</body>
+
 </html>
