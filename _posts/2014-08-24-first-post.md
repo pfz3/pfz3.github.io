@@ -13,7 +13,7 @@ Video taken in an SEM of various steels being cut with various cutting inserts. 
 " target="_blank"><img src="https://i.ytimg.com/vi_webp/mRuSYQ5Npek/default.webp" 
 alt="Machining" width="480"/></a>
 
-A CP-Ti chip produced at GT is shown below. The chip was etched to reveal grain boundary. Optical microscopy can only achieve so much resolution but this image on the scale of the chip is useful for qualitatively observing the heterogeneity of the chip.
+A CP-Ti chip produced at GT is shown below. The chip was etched to reveal structure (grain/twin boundaries). Optical microscopy can only achieve so much resolution however even at this scale the chip is useful for qualitatively observing the heterogeneity of the chip.
 
 [![Image](https://farm4.staticflickr.com/3891/15119720722_3b72b8854f_z.jpg)](https://www.flickr.com/photos/127308447@N06/15119720722/)
 
