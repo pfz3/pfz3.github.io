@@ -5,6 +5,8 @@ title: Machining Background
 
 ## Background
 
+Machining (turning, milling, planing, drilling, etc..) is a common subtractive manufacturing process used to give products desired shapes. Material removal occurs due to intense shearing which induces failure at the tool-workpiece interface. The induced shearing produces chips as well as a new machined surface which may contain structuralal changes relative to the initial bulk material.
+
 Video taken in an SEM of various steels being cut with various cutting inserts. Click to be taken to the youtube video.
 
 <a href="https://www.youtube.com/watch?v=mRuSYQ5Npek&list=UUEEF2Y1AykbUkp0LEk7IV4A
